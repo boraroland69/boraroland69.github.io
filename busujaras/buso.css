@@ -1,0 +1,17 @@
+ul {
+    list-style-image: url(jel.png);
+  }
+
+body {
+    background-color: #FFF5E8;
+}
+
+.jobbra{
+    width: 300px;
+    height: 300px;
+}
+
+.balra{
+    width: 300px;
+}
+
